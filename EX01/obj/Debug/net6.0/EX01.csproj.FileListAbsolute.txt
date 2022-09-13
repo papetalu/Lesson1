@@ -1,0 +1,15 @@
+D:\GeekBrains\Языки программирования\PPP\Proj\EX01\bin\Debug\net6.0\EX01.exe
+D:\GeekBrains\Языки программирования\PPP\Proj\EX01\bin\Debug\net6.0\EX01.deps.json
+D:\GeekBrains\Языки программирования\PPP\Proj\EX01\bin\Debug\net6.0\EX01.runtimeconfig.json
+D:\GeekBrains\Языки программирования\PPP\Proj\EX01\bin\Debug\net6.0\EX01.dll
+D:\GeekBrains\Языки программирования\PPP\Proj\EX01\bin\Debug\net6.0\EX01.pdb
+D:\GeekBrains\Языки программирования\PPP\Proj\EX01\obj\Debug\net6.0\EX01.csproj.AssemblyReference.cache
+D:\GeekBrains\Языки программирования\PPP\Proj\EX01\obj\Debug\net6.0\EX01.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Языки программирования\PPP\Proj\EX01\obj\Debug\net6.0\EX01.AssemblyInfoInputs.cache
+D:\GeekBrains\Языки программирования\PPP\Proj\EX01\obj\Debug\net6.0\EX01.AssemblyInfo.cs
+D:\GeekBrains\Языки программирования\PPP\Proj\EX01\obj\Debug\net6.0\EX01.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Языки программирования\PPP\Proj\EX01\obj\Debug\net6.0\EX01.dll
+D:\GeekBrains\Языки программирования\PPP\Proj\EX01\obj\Debug\net6.0\refint\EX01.dll
+D:\GeekBrains\Языки программирования\PPP\Proj\EX01\obj\Debug\net6.0\EX01.pdb
+D:\GeekBrains\Языки программирования\PPP\Proj\EX01\obj\Debug\net6.0\EX01.genruntimeconfig.cache
+D:\GeekBrains\Языки программирования\PPP\Proj\EX01\obj\Debug\net6.0\ref\EX01.dll
